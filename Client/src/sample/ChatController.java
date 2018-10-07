@@ -201,7 +201,7 @@ public class ChatController {
 
       }else addWarningText.setText("Заполните все поля!");
 
-
+        System.out.println("test git");
 
   });
 
